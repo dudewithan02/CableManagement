@@ -6,6 +6,8 @@ Each header has pinouts for 3.3V, GND and GPIO to be used any way you see fit,an
 
 ![DSD SFS HAT v1.0](Images/SFS_HAT.png)
 
+* Note: This will not interfere with any GPIO pins used by the Waveshare CAN RS485 HAT, so you will be able to use this in conjunction with that without any pin conflicts.
+
 ## BOM ##
 
 I've designed this board so that you can choose between SMT or through-hole for the 40-pin GPIO header. The SMT headers listed below allow for pin passthrough when using this board in conjunction with other HATs or extra-tall stacking headers. 
