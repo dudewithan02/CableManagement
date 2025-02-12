@@ -11,14 +11,15 @@ See the UserMods directory for more options.
 
 - Removed fans
 - Added modular mount system for PCBs
+- Added modular sub mount system for WAGOs and other boards
+- Added 2 places for [Mini DC-DC Buck Converters](https://www.aliexpress.com/item/32729546380.html)
+- Added wire duct which uses [FT EMS](https://www.printables.com/model/558357-ft-ems-mounts-repository) mount system more things and stuff
+- Added micron cover
+- Rotated hexes so they match all other project orientation
+- Make the hex spacing a uniform partern
 
 
-### TODO
-
-- Add micron version
-
-
-### Images
+### Images (need to be updated)
 
 **Back**
 
